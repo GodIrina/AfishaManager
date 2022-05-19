@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 
 public class Movie {
     private int id;
-    private String name;
     private String genre;
+    private String name;
     private boolean premier;
 }
